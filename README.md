@@ -1,1 +1,2 @@
-Basic static website, hosting portfolio using pages.
+Simple portfolio website.
+static site hosted using github pages.
